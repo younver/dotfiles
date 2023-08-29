@@ -1,2 +1,2 @@
 # dotfiles
-i like nvim
+i like vim
