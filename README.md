@@ -1,2 +1,3 @@
 # dotfiles
-i like vim
+
+![preview](preview.png)
