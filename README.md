@@ -2,7 +2,7 @@
 
 current nvim configuration of mine.
 
-# setup
+# setup
 
 ![setup](assets/setup.png)
 
